@@ -16,6 +16,9 @@ ___
 - I'm currently working on my [Discord bot][topgg]
 - I'm learning `JavaScript`
 
+### My project:
+- [<img align="center" src="https://dcbadge.vercel.app/api/shield/873161591284191233?bot=true" />][invite]
+
 ___
 
 <details>
