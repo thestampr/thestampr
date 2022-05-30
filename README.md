@@ -17,7 +17,7 @@ ___
 - I'm learning `JavaScript`
 
 ### My project:
-- [<img align="center" src="https://dcbadge.vercel.app/api/shield/873161591284191233?bot=true" />][https://github.com/thestampr/Tunes]
+- [<img align="center" src="https://dcbadge.vercel.app/api/shield/873161591284191233?bot=true" />][tunes_source]
 
 ___
 
@@ -46,3 +46,4 @@ class Me(BugArtist):
 [topgg]: https://top.gg/user/4092814453324316672
 [facebook]: https://www.facebook.com/thestampr/
 [instagram]: https://www.instagram.com/__stampr/
+[tunes_source]: https://github.com/thestampr/Tunes
