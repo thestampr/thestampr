@@ -17,7 +17,7 @@ ___
 - I'm learning `JavaScript`
 
 ### My project:
-- [<img align="center" src="https://dcbadge.vercel.app/api/shield/873161591284191233?bot=true" />][invite]
+- [<img align="center" src="https://dcbadge.vercel.app/api/shield/873161591284191233?bot=true" />][https://github.com/thestampr/Tunes]
 
 ___
 
