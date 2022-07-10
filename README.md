@@ -13,8 +13,9 @@ ___
 ___
 
 ### About me:
+- Junior dev at [Real Advance][realav_url]
 - I'm currently working on my [Discord bot][topgg]
-- I'm learning `JavaScript`
+- I'm learning `JavaScript`, `C`, `C++`
 
 ### My project:
 - [<img align="center" src="https://dcbadge.vercel.app/api/shield/873161591284191233?bot=true" />][tunes_source]
@@ -47,3 +48,4 @@ class Me(BugArtist):
 [facebook]: https://www.facebook.com/thestampr/
 [instagram]: https://www.instagram.com/__stampr/
 [tunes_source]: https://github.com/thestampr/Tunes
+[realav_url]: https://real.co.th/contact/
