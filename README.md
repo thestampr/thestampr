@@ -20,7 +20,7 @@ and primarily use Python as my main programming language. Currently, I'm also st
 TypeScript and the Angular framework to learn web development.
 I enjoy learning different things to meet my developmental goals.
 
-### Skills
+### Skills & Tools
 <p align="left">
   <img align="center" src="https://img.shields.io/badge/Github-24292E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img align="center" src="https://img.shields.io/badge/Heroku-6762A6?style=for-the-badge&logo=heroku&logoColor=white" alt="MongoDB" />
