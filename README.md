@@ -7,7 +7,7 @@
   <img align="center" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img align="center" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="Ts" />
   <img align="center" src="https://img.shields.io/badge/Html-E34C26?style=for-the-badge&logo=html5&logoColor=white" alt="html" />
-  <img align="center" src="https://img.shields.io/badge/Css-264de4?style=for-the-badge&logo=css3&logoColor=white" alt="css" />
+  <img align="center" src="https://img.shields.io/badge/Css-264DE4?style=for-the-badge&logo=css3&logoColor=white" alt="css" />
 </p>
 
 ___
@@ -22,11 +22,11 @@ I enjoy learning different things to meet my developmental goals.
 
 ### Skills
 <p align="left">
-  <img align="center" src="https://img.shields.io/badge/Github-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img align="center" src="https://img.shields.io/badge/Github-24292E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img align="center" src="https://img.shields.io/badge/Heroku-6762A6?style=for-the-badge&logo=heroku&logoColor=white" alt="MongoDB" />
-  <img align="center" src="https://img.shields.io/badge/Discord api-7289da?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  <img align="center" src="https://img.shields.io/badge/Discord api-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   <img align="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <!--- <img align="center" src="https://img.shields.io/badge/Vue.js-41B883?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="VueJs" />-->
+  <img align="center" src="https://img.shields.io/badge/React-FFFFFF?style=for-the-badge&logo=react&logoColor=61DBFB" alt="React" />
   <img align="center" src="https://img.shields.io/badge/Angular-DD1B16?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
 </p>
 
