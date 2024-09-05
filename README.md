@@ -1,7 +1,5 @@
 # Hello there, I'm [Stampr][instagram]
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31tiagcwo72w5czxmq3fsz4cilam&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31tiagcwo72w5czxmq3fsz4cilam&redirect=true)
-
 <p align="left">
   <img align="center" src="https://img.shields.io/badge/C-165CAA?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img align="center" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -50,11 +48,8 @@ class Me(BugArtist):
 </details>
 
 #
-##### [**Facebook**][facebook] ∙ [**Instagram**][instagram]
 
 [kofi]: https://ko-fi.com/thestampr
 [invite]: https://discord.com/oauth2/authorize?client_id=873161591284191233&scope=bot%20applications.commands&permissions=8
 [topgg]: https://top.gg/user/4092814453324316672
-[facebook]: https://www.facebook.com/thestampr/
-[instagram]: https://www.instagram.com/__stampr/
 [tunes_source]: https://github.com/thestampr/Tunes
