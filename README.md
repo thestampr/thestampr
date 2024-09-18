@@ -1,4 +1,4 @@
-# Hello there, I'm [Stampr][instagram]
+# Hello there, I'm Stamp
 
 <p align="left">
   <img align="center" src="https://img.shields.io/badge/C-165CAA?style=for-the-badge&logo=c&logoColor=white" alt="C" />
